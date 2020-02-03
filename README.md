@@ -20,7 +20,7 @@ Point browser at localhost:8081/visit
 
 You should see the number of visits, as stored in redis.
 
-To crash the node server goto Point browser at localhost:8081/crash
+To crash the node server goto localhost:8081/crash
 
 You'll see that is crashes, but recovers, localhost:8081 still works fine
 
